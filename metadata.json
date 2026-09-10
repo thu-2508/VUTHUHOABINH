@@ -1,0 +1,6 @@
+{
+  "name": "SMART ENGLISH TUTOR - VŨ THỊ MAI THU",
+  "description": "GIA SƯ THÔNG THÁI TIẾNG ANH CÁC KHỐI LỚP 6, 7, 8, 9 - VŨ THỊ MAI THU. Past Form Matching Challenge for secondary school students.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
